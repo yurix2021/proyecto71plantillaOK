@@ -1,2 +1,2 @@
-# proyecto71plantillaOK
-Clase 71 Firestore
+# PRO C71 Proyecto
+Plantilla de código del proyecto
